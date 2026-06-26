@@ -1,0 +1,6 @@
+{
+  "name": "Outfitbay",
+  "description": "Discover trend-forward, modern clothing designed for everyday comfort and confidence. Your home for curated ready-to-wear apparel, custom clothing, and personalized styling from Delhi to the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
